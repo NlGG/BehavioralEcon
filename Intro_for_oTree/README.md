@@ -16,7 +16,7 @@ oTreeを用いた実験経済学のための環境構築について解説しま
 
 ##サブゼミ  
 6/27 デモを動かしてみる。コードの触り方。[NlGG](https://github.com/NlGG)の作成例。    
-7/04 [13tsuyoshi](https://github.com/13tsuyoshi)の作成例。  
+7/04 Herokuの使い方。[13tsuyoshi](https://github.com/13tsuyoshi)の作成例。  
 
 
 
